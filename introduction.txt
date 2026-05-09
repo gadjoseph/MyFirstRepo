@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+My name is Gad Joseph, and I am learning how to use GitHub for version control and collaboration. I am interested in technology and software development.
+
+I enjoy learning new digital skills and working on projects that improve my understanding of programming and development tools.
